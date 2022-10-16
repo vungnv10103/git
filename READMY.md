@@ -1,6 +1,7 @@
 # Terms
 Reponsitory(Repo)
 Branch
+Conflict
 
 # Commands
 
