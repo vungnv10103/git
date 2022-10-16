@@ -14,4 +14,4 @@ Branch
 - git checkout {name_branch}
 - git branch
 - git checkout -b name_branch
-- git check {name_branch} (if number branch >1) -> switch branch
+- git checkout {name_branch} (if number branch >1) -> switch branch
