@@ -1,5 +1,6 @@
-# Temp
+# Terms
 Reponsitory(Repo)
+Branch
 
 # Commands
 
@@ -11,3 +12,5 @@ Reponsitory(Repo)
 - git log
 - git log --oneline
 - git checkout {name_branch}
+- git branch
+- git checkout -b name_branch
