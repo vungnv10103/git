@@ -2,6 +2,8 @@
 Reponsitory(Repo)
 Branch
 Conflict
+Local
+Remote
 
 # Commands
 
@@ -18,3 +20,4 @@ Conflict
 - git checkout {name_branch} (if number branch >1) -> switch branch
 - git merge {name_branch}
 - git branch -{name_branch}
+- git push
