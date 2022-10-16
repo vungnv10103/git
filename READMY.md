@@ -21,3 +21,8 @@ Remote
 - git merge {name_branch}
 - git branch -{name_branch}
 - git push
+- git remote and origin {repo url}
+- git push origin {name_branch}
+- git clone {repo url}
+- git fetch origin 
+- git checkout -b {name_branch} origin/ {name_branch}
